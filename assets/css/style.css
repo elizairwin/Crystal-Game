@@ -2,75 +2,63 @@ body {
 	font-family: Geneva, Tahoma, Verdana, sans-serif;
 	background-image: url("../images/hypnotize.png");
 }
-
-.jumbotron{
-    text-align: center;
-    background-color: rgb(213, 136, 213);
-    color: white;
-    height: 30px;
+.jumbotron {
+	text-align: center;
+	background-color: rgb(213, 136, 213);
+	color: white;
+	height: 30px;
 }
-
-#pinkcrystal{
-    height: 200px;
-    width: auto;
+#pinkCrystal {
+	height: 200px;
+	width: auto;
 }
-
-#tealcrystal{
-    height: 200px;
-    width: auto;
+#tealCrystal {
+	height: 200px;
+	width: auto;
 }
-
-#yellowcrystal{
-    height: 200px;
-    width: auto;
+#yellowCrystal {
+	height: 200px;
+	width: auto;
+	margin-top: -80px;
 }
-
-#purplecrystal{
-    height: 200px;
-    width: auto;
+#purpleCrystal {
+	height: 200px;
+	width: auto;
+	margin-top: -80px;
 }
-
 h3 {
-    background-color: rgb(189, 217, 235);
-    color: white;
-    margin: 0;
-    padding: 10px 20px;
-    width: 100%;
-    font-size: 80px;
-  }
-
+	background-color: rgb(189, 217, 235);
+	color: white;
+	margin: 0;
+	padding: 10px 20px;
+	width: 100%;
+	font-size: 80px;
+}
 img {
-    cursor: pointer;
-    padding: 1em;
-  }
-
-
+	cursor: pointer;
+	padding: 1em;
+}
 .container {
-    margin: 5% auto;
-    width: 90%;
-  }
-  
-  #scorecard, #game{
-    margin-bottom: 5%;
-    background-color: white;
-    color:  rgb(213, 136, 213);
-  }
-
+	margin: 5% auto;
+	width: 90%;
+}
+#scorecard, #game {
+	margin-bottom: 5%;
+	background-color: white;
+	color: rgb(213, 136, 213);
+}
 .text-center {
-      font-size: 25px;
-  }
-
+	font-size: 25px;
+}
 #scorecard {
-    float: right;
-    padding-top: 1em;
-    font-size: 20px;
+	float: right;
+	font-size: 18px;
+	margin-top: -150px;
+	background-color: rgb(244, 236, 236);
 }
-
 .row {
-    height: 220px;
-
+	height: 220px;
 }
-
 footer {
 	overflow: hidden;
 	bottom: 0;
