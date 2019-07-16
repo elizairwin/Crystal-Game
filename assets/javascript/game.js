@@ -66,11 +66,13 @@ $(document).ready(function() {
 		if (score === targetNumber) {
 			wins++;
 			$("#wins").text(wins);
-			reset();
+            reset();
+            alert("You won!")
 		} else if (score >= targetNumber) {
 			losses++;
 			$("#losses").text(losses);
-			reset();
+            reset();
+            alert("You lost!")
 		}
 		//reseting the game
 		function reset() {
