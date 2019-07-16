@@ -65,14 +65,14 @@ $(document).ready(function() {
 	function scoreCheck() {
 		if (score === targetNumber) {
 			wins++;
-			$("#wins").text(wins);
-            reset();
+            $("#wins").text(wins);
             alert("You won!")
+            reset();
 		} else if (score >= targetNumber) {
 			losses++;
-			$("#losses").text(losses);
-            reset();
+            $("#losses").text(losses);
             alert("You lost!")
+            reset();
 		}
 		//reseting the game
 		function reset() {
