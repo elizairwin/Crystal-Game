@@ -1,7 +1,7 @@
 # Crystal-Game
 
 ## Description: 
-A fun and interactive game that test the user's luck.
+A fun and interacting game that allows users to test out their luck.
 
 ## Technology Used:
 * HTML
