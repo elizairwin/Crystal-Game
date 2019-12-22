@@ -1,5 +1,18 @@
-A fun and interacting game that uses HTML5, CSS, Bootstrap, JavaScript, and JQuery.
+# Crystal-Game
 
-The user clicks on the crystals (which are all assigned different point values) and tries to match the target score.
+## Description: 
+A fun and interactive game that test the user's luck.
 
-Alerts are displayed for wins/losses and the game is reset at the end of a session.
+## Technology Used:
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* jQuery
+
+## My Role in App Developement: 
+* Performed setup
+* Created files
+* Wrote clean code
+* Tested app
+* Debugged app
